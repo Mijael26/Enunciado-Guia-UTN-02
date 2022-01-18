@@ -1,3 +1,9 @@
+# Se tiene información del legajo y la nota obtenida por 40 alumnos. Se solicita informar:
+# a)	Cuántos alumnos sacaron notas mayores al promedio. 
+# b)	Informar los legajos de los alumnos que no aprobaron (nota menor a 4).
+
+
+
 nota = [0] * (5)
 legajo = [0] * (5)
 
